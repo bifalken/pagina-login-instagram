@@ -25,4 +25,4 @@ As seguintes linguagens foram usadas na construção do projeto:
 
 Feito com 💜 por Bibiana Falkenbach 👋🏽 Entre em contato!
 [![Linkedin Badge](https://img.shields.io/badge/-Bibiana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bibiana-falkenbach/)](https://www.linkedin.com/in/bibiana-falkenbach/) 
-[![Gmail Badge](https://img.shields.io/badge/-falkenbach.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falkenbach.dev@gmail.com)](mailto:falkenbach.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-falkenbachbibiana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falkenbachbibiana@gmail.com)](mailto:falkenbachbibiana@gmail.com)
